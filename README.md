@@ -1,11 +1,13 @@
-![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat-square)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 <a href='https://play.google.com/store/apps/details?id=co.rachpra.ord_countdown'><img height="55" alt='Get it on Google Play' src='/google_play.png'/></a>
 
 # Where Got Time
 
 A simple material design- base application for NSFs
+
+![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 # To do
 Add a finance calculator for NSFs + more customisation
 
