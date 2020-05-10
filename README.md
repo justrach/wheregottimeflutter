@@ -7,8 +7,10 @@ A simple material design- base application for NSFs
 ![license](https://img.shields.io/github/license/justrach/wheregottimeflutter?style=flat-square)
 
 <a href='https://play.google.com/store/apps/details?id=co.rachpra.ord_countdown'><img height="55" alt='Get it on Google Play' src='/google_play.png'/></a>
+
 ## To do
-- [ ] Add a finance calculator for NSFs + more customisation
+- [ ] Add a finance calculator for NSFs
+- [ ] More customisation
 
 ## Built setup
 
