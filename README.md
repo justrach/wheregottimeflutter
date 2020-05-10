@@ -4,19 +4,24 @@ A simple material design- base application for NSFs
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![license](https://img.shields.io/github/license/justrach/wheregottimeflutter?style=flat-square)
+
 <a href='https://play.google.com/store/apps/details?id=co.rachpra.ord_countdown'><img height="55" alt='Get it on Google Play' src='/google_play.png'/></a>
-# To do
-Add a finance calculator for NSFs + more customisation
 
-## If you want to try flutter
+## To do
+- [ ] Add a finance calculator for NSFs
+- [ ] More customisation
 
-This project is a starting point for a Flutter application.
+## Built setup
 
-A few resources to get you started if this is your first Flutter project:
+Your system requires the Flutter SDK. Follow the steps here to [install](https://flutter.dev/docs/get-started/install) it on your system.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Check out Flutter's documentation [here](https://flutter.dev/docs).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+[GPL-2.0](https://github.com/justrach/wheregottimeflutter/blob/master/LICENSE)
+
+## Legal attribution
+
+Google Play and the Google Play logo are trademarks of Google LLC.
